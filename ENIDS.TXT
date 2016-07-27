@@ -1,0 +1,34 @@
+3/1/2016      3:36:00 PM 
+Setting up application information
+Getting Command Line Arguments
+Showing Splash Screen
+Initial Setup
+Initial Setup
+Configuration Setup
+Setting up Toolbar
+Toolbar setup
+Setting Tool Parameters
+Getting Program window state
+Showing Splash Screen
+Setting Initial Variables
+Setting File Type Associations
+File Type Setup
+Searching for unit
+Initializing - Debug Mode
+Port Search Failed.
+Configuration Setup
+Fuzzy Logic
+Fuzzy Logic Initial Setup
+DTE Setup
+Smith Chart Setup
+User Chart Setup
+Terminal Setup
+Flag Display Setup
+Plotter Setup
+Downloader Setup
+Cycler Setup
+Done
+
+Removing Splash
+Opening Specified File
+DONE          3/1/2016      3:36:03 PM 
